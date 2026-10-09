@@ -1,0 +1,5 @@
+Credits
+- Game by FonceurOk
+- Background assets: Kenney
+- Sprites assets: GameArt2D
+- Music: "Retro Game Arcade" by Moodmode
