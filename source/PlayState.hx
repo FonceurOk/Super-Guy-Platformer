@@ -48,7 +48,6 @@ class PlayState extends FlxState
 	private var skyBackground:FlxSprite;
 	private var backdropSprites:Array<FlxBackdrop> = [];
 	private var hudText:FlxText;
-	private var counterText:FlxText;
 
 	override public function create():Void
 	{
